@@ -7,6 +7,8 @@
 ### 블록체인 일반
  - [토큰 이코노미와 토큰 디자인패턴](https://medium.com/@isp1195/%ED%86%A0%ED%81%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-%ED%86%A0%ED%81%B0-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B8%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1%EA%B3%BC-%ED%86%A0%ED%81%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-token-design-pattern-725a637ee74a)
 ### Hyperledger fabric
+ - [Raft Consensus](https://raft.github.io/)
+ - [Raft Algorithm 정리](https://suckzoo.github.io/tech/2018/01/03/raft-1.html)
 
 ### Hyperledger Indy
  - [Evernym white-papers](https://www.evernym.com/white-papers/)
