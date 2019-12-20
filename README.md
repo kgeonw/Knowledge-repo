@@ -9,6 +9,7 @@
 ### Hyperledger fabric
 
 ### Hyperledger Indy
+ - [Sovereign Data Design](https://docs.google.com/presentation/d/1X6F9QVG8M4PqQQLLL_5I6aQ5z7CCpYyYHBNKYMlsqXc/edit#slide=id.p)
 
 ## 프로그래밍
 
