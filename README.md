@@ -12,6 +12,9 @@
 
 ## 프로그래밍
 
+### TypeScript
+ - [클린코드 작성법] (https://github.com/labs42io/clean-code-typescript)
+
 ### 테스팅
 
 ## DevOps
