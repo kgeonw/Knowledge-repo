@@ -38,4 +38,5 @@
 
 ## DevOps
 
-## 
+### Git
+ - [Git Flow 전략](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
