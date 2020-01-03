@@ -18,6 +18,11 @@
  - [Indy Architectiure](https://www.ernesto.net/hyperledger-indy-architecture)
  - [Sovereign Data Design](https://docs.google.com/presentation/d/1X6F9QVG8M4PqQQLLL_5I6aQ5z7CCpYyYHBNKYMlsqXc/edit#slide=id.p)
 
+## 아키텍처
+
+ - [Nodejs architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
+ - [10가지 소프트웨어 아키텍처](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+ 
 ## 프로그래밍
 
 ### Golang
@@ -32,7 +37,6 @@
  - [객체지향 개발 5대 원리: SOLID](http://www.nextree.co.kr/p6960/)
  - [함수형 프로그래밍](https://github.com/FEDevelopers/tech.description/wiki/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0%3F-(Part-1))
  - [Microservice with golang](https://dzone.com/articles/create-versatile-microservices-in-golang-part-1)
- - [Nodejs architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
  
 ## 벤치마킹
  - [Nodejs 프로덕션 환경 Best Practice](https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html)
