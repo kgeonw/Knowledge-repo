@@ -21,10 +21,12 @@
  - [Sovereign Data Design](https://docs.google.com/presentation/d/1X6F9QVG8M4PqQQLLL_5I6aQ5z7CCpYyYHBNKYMlsqXc/edit#slide=id.p)
 
 ## 아키텍처
-
  - [Nodejs architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
  - [10가지 소프트웨어 아키텍처](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
  
+## Cryptography
+ - [Threshold-Signature-Scheme](https://github.com/Turing-Chain/TSSKit-Threshold-Signature-Scheme-Toolkit)
+
 ## 프로그래밍
 
 ### Golang
