@@ -47,6 +47,7 @@
  
 ## 벤치마킹
  - [Nodejs 프로덕션 환경 Best Practice](https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html)
+ - [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 
 ## DevOps
 
