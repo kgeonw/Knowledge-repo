@@ -26,6 +26,8 @@
  
 ## Cryptography
  - [Threshold-Signature-Scheme](https://github.com/Turing-Chain/TSSKit-Threshold-Signature-Scheme-Toolkit)
+ - [Zero-knowledge-proof#1](https://medium.com/decipher-media/zero-knowledge-proof-chapter-1-introduction-to-zero-knowledge-proof-zk-snarks-6475f5e9b17b)
+ - [Zero-knowledge-proof#2](https://medium.com/decipher-media/zero-knowledge-proof-chapter-2-deep-dive-into-zk-snarks-f8b16e1b7b4c)
 
 ## 프로그래밍
 
