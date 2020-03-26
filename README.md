@@ -34,7 +34,8 @@
 ### Golang
 ### Nodejs
  - [Nodejs에서 대용량 파일전송](https://firejune.com/1716/Node.JS%EC%97%90%EC%84%9C+%EB%8C%80%EC%9A%A9%EB%9F%89+%ED%8C%8C%EC%9D%BC+%EC%A0%84%EC%86%A1%EC%9D%84+%EB%AF%B8%EC%B9%9C%EB%93%AF+%EB%B9%A0%EB%A5%B4%EA%B2%8C)
-
+### TypeScript
+ - [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 ### TDD
  - [테스트 주도 개발 단위테스트 5단계 방법론](https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90)
  - [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1)
