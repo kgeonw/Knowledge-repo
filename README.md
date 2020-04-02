@@ -14,6 +14,7 @@
 ### Hyperledger fabric
  - [상냥한 Raft 정리](https://suckzoo.github.io/tech/2018/01/03/raft-1.html)
  - [체인코드 개발 효율성 높이기](https://developer.ibm.com/kr/author/kimhs25/)
+ - [Add a New Organization](https://medium.com/@kctheservant/add-a-new-organization-on-existing-hyperledger-fabric-network-2c9e303955b2)
 
 ### Hyperledger Indy
  - [Evernym white-papers](https://www.evernym.com/white-papers/)
