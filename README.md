@@ -60,6 +60,7 @@
  - [Git Flow 전략](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
  - [GitHub로 취업하기](https://sujinlee.me/professional-github/)
  - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+ - [Git 교육자료](https://johngrib.github.io/wiki/git-tutorial/)
  
 ### Docker
  - [만들면서 이해하는 도커](https://www.44bits.io/ko/post/how-docker-image-work)
