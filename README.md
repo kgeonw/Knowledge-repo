@@ -65,3 +65,4 @@
  
 ### Docker
  - [만들면서 이해하는 도커](https://www.44bits.io/ko/post/how-docker-image-work)
+ - [도커 이미지 잘 만드는 방법](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
