@@ -10,6 +10,7 @@
  - [RBFT Consensus Algorithm](https://pakupaku.me/plaublin/rbft/5000a297.pdf)
  - [Raft Consensus Algorithm](https://raft.github.io/)
  - [Ricardian Contracts](http://www.webfunds.org/guide/ricardian_implementations.html)
+ - [Token Taxonomy Initiative](https://tokentaxonomy.org/)
  
 ### Hyperledger fabric
  - [상냥한 Raft 정리](https://suckzoo.github.io/tech/2018/01/03/raft-1.html)
