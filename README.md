@@ -17,6 +17,7 @@
  - [체인코드 개발 효율성 높이기](https://developer.ibm.com/kr/author/kimhs25/)
  - [Add a New Organization](https://medium.com/@kctheservant/add-a-new-organization-on-existing-hyperledger-fabric-network-2c9e303955b2)
  - [Hyperledger Blockchain Performance Reports](https://hyperledger.github.io/caliper-benchmarks/)
+ - [IBM Code Patterns Blockchain](https://developer.ibm.com/patterns/category/blockchain/)
  
 ### Hyperledger Indy
  - [Evernym white-papers](https://www.evernym.com/white-papers/)
